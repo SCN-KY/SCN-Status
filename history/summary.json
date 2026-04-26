@@ -60,18 +60,20 @@
     "url": "https://support.starlightcommunity.network",
     "icon": "https://static.wixstatic.com/media/12679b_f990c0dfc4744a7d828199dd2c91ea50~mv2.png",
     "slug": "support-forum",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 891,
-    "timeDay": 727,
-    "timeWeek": 855,
-    "timeMonth": 777,
-    "timeYear": 891,
-    "dailyMinutesDown": {}
+    "time": 884,
+    "timeDay": 558,
+    "timeWeek": 797,
+    "timeMonth": 765,
+    "timeYear": 884,
+    "dailyMinutesDown": {
+      "2026-04-26": 0
+    }
   },
   {
     "name": "Scumcraft",
@@ -82,7 +84,7 @@
     "uptime": "97.87%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
-    "uptimeMonth": "98.25%",
+    "uptimeMonth": "99.57%",
     "uptimeYear": "97.42%",
     "time": 37,
     "timeDay": 8,
