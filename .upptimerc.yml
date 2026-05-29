@@ -17,7 +17,7 @@ sites:
   - name: Scumcraft
     check: "tcp-ping"
     url: scumcraft.starlightcommunity.net
-    port: 55294
+    port: 25696
     icon: https://static.wixstatic.com/media/2d311a_ff5d4c5be50b4692a391da67869d1b95~mv2.png
   - name: Collin3DModels
     url: https://collin3dmodels.com
