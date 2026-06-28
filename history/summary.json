@@ -63,18 +63,18 @@
     "icon": "https://static.wixstatic.com/media/12679b_f990c0dfc4744a7d828199dd2c91ea50~mv2.png",
     "slug": "support-forum",
     "status": "down",
-    "uptime": "50.88%",
+    "uptime": "50.81%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "0.00%",
-    "uptimeYear": "50.88%",
+    "uptimeYear": "50.81%",
     "time": 884,
     "timeDay": 0,
     "timeWeek": 0,
     "timeMonth": 0,
     "timeYear": 884,
     "dailyMinutesDown": {
-      "2026-06-28": 124,
+      "2026-06-28": 358,
       "2026-06-27": 1440,
       "2026-06-26": 1440,
       "2026-06-25": 1440,
@@ -145,9 +145,9 @@
     "url": "scumcraft.starlightcommunity.net",
     "icon": "https://static.wixstatic.com/media/2d311a_ff5d4c5be50b4692a391da67869d1b95~mv2.png",
     "slug": "scumcraft",
-    "status": "up",
+    "status": "down",
     "uptime": "97.99%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "97.23%",
@@ -176,7 +176,8 @@
       "2026-03-18": 1440,
       "2026-03-17": 979,
       "2026-05-14": 733,
-      "2026-05-13": 282
+      "2026-05-13": 282,
+      "2026-06-28": 0
     }
   },
   {
