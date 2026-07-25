@@ -13,7 +13,7 @@
     "time": 386,
     "timeDay": 482,
     "timeWeek": 395,
-    "timeMonth": 422,
+    "timeMonth": 431,
     "timeYear": 386,
     "dailyMinutesDown": {}
   },
@@ -31,7 +31,7 @@
     "time": 410,
     "timeDay": 426,
     "timeWeek": 290,
-    "timeMonth": 318,
+    "timeMonth": 322,
     "timeYear": 408,
     "dailyMinutesDown": {
       "2026-01-09": 9
@@ -51,7 +51,7 @@
     "time": 361,
     "timeDay": 720,
     "timeWeek": 697,
-    "timeMonth": 485,
+    "timeMonth": 496,
     "timeYear": 359,
     "dailyMinutesDown": {
       "2026-04-27": 385
@@ -63,18 +63,19 @@
     "icon": "https://static.wixstatic.com/media/12679b_f990c0dfc4744a7d828199dd2c91ea50~mv2.png",
     "slug": "support-forum",
     "status": "down",
-    "uptime": "42.01%",
+    "uptime": "41.99%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "1.38%",
-    "uptimeYear": "42.01%",
+    "uptimeYear": "41.99%",
     "time": 884,
     "timeDay": 0,
     "timeWeek": 0,
     "timeMonth": 0,
     "timeYear": 884,
     "dailyMinutesDown": {
-      "2026-07-24": 1437,
+      "2026-07-25": 81,
+      "2026-07-24": 1440,
       "2026-07-23": 1440,
       "2026-07-22": 1440,
       "2026-07-21": 1440,
@@ -180,7 +181,7 @@
     "time": 37,
     "timeDay": 29,
     "timeWeek": 40,
-    "timeMonth": 35,
+    "timeMonth": 36,
     "timeYear": 37,
     "dailyMinutesDown": {
       "2026-01-02": 21,
@@ -221,7 +222,7 @@
     "time": 217,
     "timeDay": 145,
     "timeWeek": 214,
-    "timeMonth": 188,
+    "timeMonth": 189,
     "timeYear": 215,
     "dailyMinutesDown": {}
   }
