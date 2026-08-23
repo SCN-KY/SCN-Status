@@ -74,7 +74,7 @@
     "timeMonth": 0,
     "timeYear": 884,
     "dailyMinutesDown": {
-      "2026-08-23": 680,
+      "2026-08-23": 701,
       "2026-08-22": 1440,
       "2026-08-21": 1440,
       "2026-08-20": 1440,
@@ -201,16 +201,16 @@
     "url": "scumcraft.starlightcommunity.net",
     "icon": "https://static.wixstatic.com/media/2d311a_ff5d4c5be50b4692a391da67869d1b95~mv2.png",
     "slug": "scumcraft",
-    "status": "down",
+    "status": "up",
     "uptime": "97.91%",
-    "uptimeDay": "99.99%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "96.79%",
+    "uptimeDay": "98.54%",
+    "uptimeWeek": "99.79%",
+    "uptimeMonth": "99.95%",
+    "uptimeYear": "96.78%",
     "time": 37,
-    "timeDay": 16,
-    "timeWeek": 26,
-    "timeMonth": 32,
+    "timeDay": 40,
+    "timeWeek": 30,
+    "timeMonth": 33,
     "timeYear": 37,
     "dailyMinutesDown": {
       "2026-01-02": 21,
@@ -235,7 +235,7 @@
       "2026-05-13": 282,
       "2026-06-29": 1221,
       "2026-06-28": 1082,
-      "2026-08-23": 0
+      "2026-08-23": 21
     }
   },
   {
